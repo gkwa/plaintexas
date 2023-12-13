@@ -1,0 +1,7 @@
+* plaintexas
+
+This is a description of my plaintexas.
+
+** Usage
+
+To use my project, run this command: ./myproject --verbose
